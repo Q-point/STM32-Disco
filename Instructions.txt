@@ -1,0 +1,7 @@
+
+To fix the issue with the rm command download coreutils
+Extract the bin folder and copy rm executable to the directory of the compiler
+
+C:\Program Files (x86)\GNU Tools ARM Embedded\4.7 2013q3\bin 
+
+This should be in the same file as make
